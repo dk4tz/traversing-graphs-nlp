@@ -1,0 +1,5 @@
+*.npy
+*.idx
+*.csv
+treeoflife_env/
+__pycache__/
